@@ -48,4 +48,4 @@ app.post('/updatejobseekerapi', function(req, res) {
   res.send('Success!')
 });
 
-app.listen(8090, () => console.log('Example app listening on port 8090!'))
+app.listen(8090, () => console.log('Git Hook for Right Account server listening on port 8090!'))
